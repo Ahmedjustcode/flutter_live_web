@@ -4,9 +4,15 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"version.json": "0a7c1abcb775e70116d02f9d2190b846",
+<<<<<<< HEAD
 "index.html": "2fab3b7737715ec04b0fb195fd05fa32",
 "/": "2fab3b7737715ec04b0fb195fd05fa32",
 "main.dart.js": "5a0a2d6d9ac4cc310c8b799b295e3fb8",
+=======
+"index.html": "7702a1bd952cbca12d50c382f71ac9be",
+"/": "7702a1bd952cbca12d50c382f71ac9be",
+"main.dart.js": "9916dc7adf3070a12a26402fc10b88ff",
+>>>>>>> cdbd97ca8ff30864b156fcd3cb776a7248425c16
 "flutter.js": "7d69e653079438abfbb24b82a655b0a4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -14,6 +20,7 @@ const RESOURCES = {"version.json": "0a7c1abcb775e70116d02f9d2190b846",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "78673e7f192e16dfa873e8cab0f2496f",
+<<<<<<< HEAD
 ".git/REBASE_HEAD": "79317858ca33a512d41c1e741c952aaa",
 ".git/ORIG_HEAD": "85e9d453bf0e612d88fd402f93b34eb7",
 ".git/config": "583072c5e70faf59d7901ebaa091d541",
@@ -187,6 +194,8 @@ const RESOURCES = {"version.json": "0a7c1abcb775e70116d02f9d2190b846",
 ".git/rebase-merge/interactive": "d41d8cd98f00b204e9800998ecf8427e",
 ".git/rebase-merge/msgnum": "b026324c6904b2a9cb4b88d6d61c81d1",
 ".git/rebase-merge/author-script": "610ddc0503426de2e185e57e637ea8ad",
+=======
+>>>>>>> cdbd97ca8ff30864b156fcd3cb776a7248425c16
 "assets/AssetManifest.json": "4bbffea287bc402b74b3b806d6c7742a",
 "assets/NOTICES": "fd9c56381c4a1f306075ea8fcf7c20a6",
 "assets/FontManifest.json": "5789e421f873f99ac880ad1187139900",
