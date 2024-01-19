@@ -4,9 +4,15 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"version.json": "0a7c1abcb775e70116d02f9d2190b846",
+<<<<<<< HEAD
 "index.html": "1857872988332a613f4ff235e7c0cc06",
 "/": "1857872988332a613f4ff235e7c0cc06",
 "main.dart.js": "7f892a5571fb4112979107b4147b1ad1",
+=======
+"index.html": "7702a1bd952cbca12d50c382f71ac9be",
+"/": "7702a1bd952cbca12d50c382f71ac9be",
+"main.dart.js": "9916dc7adf3070a12a26402fc10b88ff",
+>>>>>>> 2c00ca5 (last update)
 "flutter.js": "7d69e653079438abfbb24b82a655b0a4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -14,6 +20,7 @@ const RESOURCES = {"version.json": "0a7c1abcb775e70116d02f9d2190b846",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "78673e7f192e16dfa873e8cab0f2496f",
+<<<<<<< HEAD
 "assets/AssetManifest.json": "147436217e1df89e6400132de5daeedf",
 "assets/NOTICES": "7ee3e3bc4a153023e3a12cffaf0d38d5",
 "assets/FontManifest.json": "5789e421f873f99ac880ad1187139900",
@@ -22,6 +29,20 @@ const RESOURCES = {"version.json": "0a7c1abcb775e70116d02f9d2190b846",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
 "assets/AssetManifest.bin": "5e2a324aab91c59198e421bcda5a6d5d",
 "assets/fonts/MaterialIcons-Regular.otf": "1f33787bde4fbcd8908e00ac21df673f",
+=======
+"assets/AssetManifest.json": "4bbffea287bc402b74b3b806d6c7742a",
+"assets/NOTICES": "fd9c56381c4a1f306075ea8fcf7c20a6",
+"assets/FontManifest.json": "5789e421f873f99ac880ad1187139900",
+"assets/AssetManifest.bin.json": "e483182da2d76203b46c76aa2acc779b",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
+"assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
+"assets/AssetManifest.bin": "4bd454ac027b65e77fd7a6c9fbba32de",
+"assets/fonts/MaterialIcons-Regular.otf": "1f33787bde4fbcd8908e00ac21df673f",
+"assets/assets/AssetManifest.json": "147436217e1df89e6400132de5daeedf",
+"assets/assets/NOTICES": "7dd6c7a9e40636268760b5e6bb3af467",
+"assets/assets/FontManifest.json": "5789e421f873f99ac880ad1187139900",
+"assets/assets/AssetManifest.bin.json": "54933b488a012f283dd01aafe9ab66d0",
+>>>>>>> 2c00ca5 (last update)
 "assets/assets/icons/payment.svg": "2b9c0cac9c302df3063d74607f9b171f",
 "assets/assets/icons/logout.svg": "4d628f58678749e56bdd6ad34d6af864",
 "assets/assets/icons/drawer.svg": "0e26408bbfba33c7d221340a7ffcc2a0",
@@ -34,6 +55,10 @@ const RESOURCES = {"version.json": "0a7c1abcb775e70116d02f9d2190b846",
 "assets/assets/icons/messages.svg": "550a4caba25697d370f58f901d79c3e2",
 "assets/assets/icons/customers.svg": "1a16aa96a70b0f4453f134f36b26da54",
 "assets/assets/icons/statistics.svg": "904e4ee44c00e669000e09350f4c1ba0",
+<<<<<<< HEAD
+=======
+"assets/assets/AssetManifest.bin": "5e2a324aab91c59198e421bcda5a6d5d",
+>>>>>>> 2c00ca5 (last update)
 "assets/assets/fonts/lato/Lato-Italic.ttf": "5d22f337a040ae2857e36e7c5800369b",
 "assets/assets/fonts/lato/Lato-Thin.ttf": "7ab0bc06eecc1b75f8708aba3d3b044a",
 "assets/assets/fonts/lato/Lato-Bold.ttf": "24b516c266d7341c954cb2918f1c8f38",
