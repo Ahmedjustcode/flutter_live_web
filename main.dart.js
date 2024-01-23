@@ -79388,7 +79388,7 @@ A.Ki.prototype={
 L(a){return B.OT}}
 A.Kj.prototype={
 L(a){var s=null,r="Available to payout",q=t.p
-return new A.cW(B.md,A.auD(A.a([A.avS(A.eW(A.a([B.lM,B.ek,A.aA9("https://ecom.cloud-dynasty.com/public/images/products/16968516340.jpg",new A.a3Z(),s),A.eM(A.a([A.eE(new A.fx("Today Sales","We have sold 123 items",B.d.k(20.4),B.bP,s),1),B.cx,A.eE(new A.fx("Today Revenue",r,B.d.k(8.2),B.dq,s),1),B.cx,A.eE(new A.fx("In Escrow",r,B.d.k(18.2),B.eL,s),1)],q),B.T,B.y,B.z),B.ek,B.HW,B.mN],q),B.T,B.y,B.z),!1)],q)),s)}}
+return new A.cW(B.md,A.auD(A.a([A.avS(A.eW(A.a([B.lM,B.ek,A.aA9("http://localhost:3000/images/default.png",new A.a3Z(),s),A.eM(A.a([A.eE(new A.fx("Today Sales","We have sold 123 items",B.d.k(20.4),B.bP,s),1),B.cx,A.eE(new A.fx("Today Revenue",r,B.d.k(8.2),B.dq,s),1),B.cx,A.eE(new A.fx("In Escrow",r,B.d.k(18.2),B.eL,s),1)],q),B.T,B.y,B.z),B.ek,B.HW,B.mN],q),B.T,B.y,B.z),!1)],q)),s)}}
 A.a3Z.prototype={
 $3(a,b,c){return B.HA},
 $S:493}
