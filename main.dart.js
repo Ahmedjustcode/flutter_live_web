@@ -91163,7 +91163,8 @@ a99(a){var s,r
 $.aa.toString
 s=A.f8($.b6().gAu())
 r=(s.gWR()?A.uj(null,"/",s.gKr()):s).k(0)
-return r}}
+if(r==="/")return a
+else return r}}
 A.acL.prototype={
 $2(a,b){return new A.ok(this.a,b,null)},
 $S:560}
@@ -103851,7 +103852,7 @@ s($,"b4w","aAI",()=>A.aNx(0.78)/A.aNx(0.9))
 s($,"b97","aQL",()=>{var q=t.K
 return new A.ane(new A.a72(A.x(q,A.a1("af<c2>")),A.x(q,t.V4)))})
 s($,"b8R","aQG",()=>{var q=null,p=A.a([A.aHC(q,"mainScreen",new A.azW(),"/home")],t.yo)
-return A.aTU(!1,q,q,q,q,q,q,q,q,!1,q,!0,q,!1,new A.Wi(new A.akd(p,A.b3z(),5)))})
+return A.aTU(!1,q,q,q,q,"/home",q,q,q,!1,q,!0,q,!1,new A.Wi(new A.akd(p,A.b3z(),5)))})
 r($,"b4h","aOj",()=>A.G4(null,B.iU,null))
 s($,"b96","aAX",()=>$.aOy())
 s($,"b9b","aQN",()=>new A.ahB(A.x(t.N,A.a1("af<c2?>?(c2?)"))))
